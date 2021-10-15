@@ -1,0 +1,16 @@
+.banner-img{
+   background: url(../images/bannerbackground.png);
+   height:80vh;
+   background-size:cover;
+   
+
+}
+
+
+.text-center.banner-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+}
